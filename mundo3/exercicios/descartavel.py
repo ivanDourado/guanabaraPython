@@ -26,13 +26,20 @@ while (i>=0):
 """ for i in range(100,1000,10):
     print(i) """
 
-i = 100
+""" i = 100
 while(i<=999):
     print(i)
-    i+=10
+    i+=10 """
 """ for i in range(7,26,3):
     print(i) """
 """ x = 5 
 while x <=25:
     print(x)
     x+=5 """
+
+""" num = [3, 6, 4, 1]
+for n1, n2 in enumerate(num): 
+    print(n1 + n2)  """
+
+val = list(range(1, 5))
+print(val)

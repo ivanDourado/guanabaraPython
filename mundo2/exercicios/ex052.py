@@ -3,7 +3,7 @@ cont_tot = 0
 #soma = 0
 for c in range(1, num_p + 1):
     if num_p % c == 0:
-        print('\033[33m', end='')
+        print('\033[33m', ='')
         cont_tot += 1
         
     else:
